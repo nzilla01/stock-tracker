@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "stock tracker_bb3e8232"
+    },
+    {
+      "type": "java",
+      "name": "AddStock",
+      "request": "launch",
+      "mainClass": "AddStock",
+      "projectName": "stock tracker_bb3e8232"
+    },
+    {
+      "type": "java",
+      "name": "add_stock",
+      "request": "launch",
+      "mainClass": "add_stock",
+      "projectName": "stock tracker_bb3e8232"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program with .env",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.mySample.App",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
