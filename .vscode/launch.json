@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "dashboard",
+      "request": "launch",
+      "mainClass": "dashboard",
+      "projectName": "stock tracker_bb3e8232"
+    },
+    {
+      "type": "java",
       "name": "main",
       "request": "launch",
       "mainClass": "main",

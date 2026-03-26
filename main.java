@@ -28,7 +28,7 @@ public class main {
                 break;
             case 2:
                 // TODO: Call ViewPortfolio functionality
-                System.out.println("View portfolio not implemented yet.");
+               dashboard.main(new String[0]);
                 break;
             case 3:
                 System.out.println("Exiting...");
