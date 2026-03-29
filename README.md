@@ -5,7 +5,7 @@ This project is a Stock Tracker application built in Java that allows users to m
 The purpose of this project is to build a practical portfolio management tool that demonstrates core Java programming concepts, file I/O operations, configuration management, and GUI development. The Stock Tracker helps investors keep track of their stock positions and manage their investment portfolio efficiently.
 
 [Software Demo Video]
-https://youtu.be/H6Q1JhGAIvw
+https://youtu.be/WF_Q7ZwItA0
 
 # Development Environment
 
